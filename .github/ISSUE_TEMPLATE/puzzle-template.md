@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Puzzle Template
 about: New Work Item
 title: ''
 labels: advent of code
