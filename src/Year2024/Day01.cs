@@ -1,8 +1,10 @@
+using AdventOfCode.Interfaces;
+
 namespace AdventOfCode.Year2024;
 
-public class Day01
+public class Day01 : ISolution
 {
-  public static int SolvePart1(string[] input)
+  public int SolvePart1(string[] input)
   {
     var puzzleInput = input.ToList();
     var leftValues = new List<int>();
@@ -28,7 +30,7 @@ public class Day01
     return total;
   }
 
-  public static int SolvePart2(string[] input)
+  public int SolvePart2(string[] input)
   {
     var puzzleInput = input.ToList();
     var leftValues = new List<int>();
