@@ -7,10 +7,11 @@ assignees: ''
 
 ---
 
-**Description:** Solve the puzzle for Year 20 Day 
+**Description:** Solve the puzzle for the day 
 
 **Acceptance Criteria:**
- - Complete solutions for parts 1 and 2
+ - Complete solutions for part 1
+ - Complete solutions for part 2
 
 **Category:** Advent of Code
 
